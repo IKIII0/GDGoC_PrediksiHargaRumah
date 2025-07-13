@@ -1,1 +1,1 @@
-mohon maaf file .pkl tidak bisa di upload kegithub dikarenakan file terlalu besar, oleh karena itu mungkin bisa langsung di download dari google collab atau yang lain dengan format .ipynb
+mohon maaf file .pkl tidak bisa di upload kegithub dikarenakan file terlalu besar, oleh karena itu mungkin bisa langsung di download dari google collab ( https://colab.research.google.com/drive/1GT2qYsIsl6-7Qb1pHpWAgCaEehlb4Fib?usp=sharing ) atau yang lain dengan format .ipynb
